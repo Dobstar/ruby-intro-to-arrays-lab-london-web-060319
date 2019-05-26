@@ -37,4 +37,5 @@ def first_element_with_array_methods(first_country)
     last_country = @south_east_asia
     @south_east_asia.last 
   end 
-end 
+
+def length_of_array
