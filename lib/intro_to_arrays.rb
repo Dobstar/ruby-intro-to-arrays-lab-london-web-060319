@@ -16,5 +16,5 @@ def third_element
 end
 
 def last_element
-  @taylor_swift
+  @taylor_swift[3]
 end 
