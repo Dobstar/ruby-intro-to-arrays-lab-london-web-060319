@@ -27,4 +27,5 @@ def last_element(my_last_element)
 end 
 
 def first_element_with_array_methods(first_country)
-  
+    @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+    
