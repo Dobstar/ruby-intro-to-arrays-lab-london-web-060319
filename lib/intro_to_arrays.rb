@@ -25,3 +25,6 @@ def last_element(my_last_element)
   my_last_element = @taylor_swift
   @taylor_swift[3]
 end 
+
+def first_element_with_array_methods(first_country)
+  
